@@ -1,0 +1,41 @@
+html {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vh;
+    height: auto;
+    color: black;
+    font-family: 'Digital7 Mono Italic', 'Digital7 Italic', 'Bittypix Countdown', 'Digital7 Mono', 'Digital7 Regular', 'Courier New', Courier, monospace;
+}
+
+@font-face {
+    font-family: 'Digital7 Regular';
+    src: url(fonts/Digital7-1e1Z.ttf);
+}
+
+@font-face {
+    font-family: 'Digital7 Mono';
+    src: url(fonts/Digital7Mono-B1g5.ttf);
+}
+
+@font-face {
+    font-family: 'Digital7 Italic';
+    src: url(fonts/Digital7Italic-RBM3.ttf);
+}
+
+@font-face {
+    font-family: 'Digital7 Mono Italic';
+    src: url(fonts/Digital7Monoitalic-8xKz.ttf);
+}
+
+@font-face {
+    font-family: 'Bittypix Countdown';
+    src: url(fonts/BittypixCountdown-92M2.ttf);
+}
