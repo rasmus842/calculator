@@ -1,3 +1,9 @@
+// interact with the display of the calculator
+// when buttons clicked display will show them
+const display = document.querySelector('.display');
+
+// event listeners and handlers for when buttons are clicked
+
 function operate(operator, a, b) {
     return operator(a, b);
 }
