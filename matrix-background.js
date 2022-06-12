@@ -1,5 +1,6 @@
-/* create matrix background using canvas-dom element
-from
+/* 
+create matrix background using canvas-dom element 
+code from stackoverflow: 
 https://stackoverflow.com/questions/67136032/how-to-make-the-matrix-background-render-behind-page-content
 */
 

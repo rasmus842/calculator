@@ -77,6 +77,14 @@ body {
     padding: 0;
 }
 
+.hover {
+    background-color: rgba(200, 200, 200, 0.85);
+}
+
+.clicked {
+    background-color: rgba(160, 160, 160, 0.85);
+}
+
 @font-face {
     font-family: 'Digital7 Regular';
     src: url(fonts/Digital7-1e1Z.ttf);
